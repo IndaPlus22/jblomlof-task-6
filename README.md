@@ -5,4 +5,4 @@ Warmup Kattis problem solved.
 
 ## Proof
 
-    ![Warmup.PNG](/proof/Warmup.png)
+![Warmup.PNG](/proof/Warmup.png)
