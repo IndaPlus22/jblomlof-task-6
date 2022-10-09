@@ -7,6 +7,6 @@ Enklaste förklaringen är att en funktion kallar på sig själv. Mer utvecklat 
 ## Fråga 3
 Jag förstår inte frågan. Den nedre delen av koden är ju fungerande i javascript? Se här
 
-![javscipt.PNG] (/javascript.PNG)
+![javascript.PNG] (./javascript.PNG)
 
 Däremot är Haskell varianten coolare. Det är ju för att det i funktion definitionen går att specifiera vad som ska ske om argumentet är av ett visst värde.
